@@ -1,0 +1,99 @@
+﻿'engine.exe' (Win32): Loaded 'C:\Users\User\source\repos\engine\Debug\engine.exe'. Symbols loaded.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Program Files\AVAST Software\Avast\aswhookx.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\fltLib.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\XInput1_4.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiglpxx.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atioglxx.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atioglxx.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atioglxx.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxva2.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atigktxx.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atiadlxy.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\atiadlxy.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atiadlxy.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\userenv.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d11.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\amdhdl32.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\aticfx32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atidxx32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atidxx32.dll'
+'engine.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atidxx32.dll'. Cannot find or open the PDB file.
+'engine.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+The thread 0x510 has exited with code 0 (0x0).
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atidxx32.dll'
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\atiuxpag.dll'
+'engine.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\c0315761.inf_amd64_61b8be71fe4afae4\aticfx32.dll'
+'engine.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\XInput1_4.dll'
+'engine.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\hid.dll'
+'engine.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\dinput8.dll'
+The thread 0x3a6c has exited with code 0 (0x0).
+The thread 0x2990 has exited with code 0 (0x0).
+The thread 0x1ea8 has exited with code 0 (0x0).
+The program '[2392] engine.exe' has exited with code 0 (0x0).
